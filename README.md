@@ -1,3 +1,6 @@
+
+![This is a screenshot](/image/screen.png)
+
 ## VOTAÇÃO — Documentação Técnica
 
 ## 1. Visão Geral
