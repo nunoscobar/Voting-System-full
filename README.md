@@ -1,5 +1,5 @@
 
-![This is a screenshot](/image/screen.png)
+![This is a screenshot](screen.png)
 
 ## VOTAÇÃO — Documentação Técnica
 
